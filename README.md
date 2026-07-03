@@ -1,2 +1,11 @@
 # password-random
-this is my first python project
+A simple password generator built using python.
+#Features
+.Generate random password
+.Include numbers,Includes letters,Includes special characters
+.Choose pass length
+#Technology used 
+*Python
+*string module
+#Run 
+python password_generator.py
